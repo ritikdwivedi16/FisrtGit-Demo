@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ryWVMqbSuku6wzhLRsGmJg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="irctc.co.in/nget/train-search" CVScreenId="a7e2f3bd-d31c-461a-aba8-557ed42ed6e0" CvElementArea="293, 171, 87, 43" CvTextArea="304, 185, 61, 17" CvTextArgument="LOGIN" CvType="Button" DesignTimeRectangle="296, 173, 83, 39" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label='Click here to Login in application' tag='A' type='' class='search_btn loginText ng-star-inserted' aaname=' LOGIN ' check:innerText='LOGIN' /&gt;" Guid="988482ef-613c-4ea8-8ec2-d8a0d4ba820f" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IRCTC Next Generation eTicketing System' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="01871abb2401ff653cd9203bbdcb799a.png" xmlns="">0_EclqfWYdUa3cF2l3kU3yA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

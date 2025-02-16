@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Invoice No. 485744 Alee…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "xngD0r2KPU-yaE-4G0FtBQ",
+  "Reference": "LDmCXREUnkavPI_JwEMUUA/xngD0r2KPU-yaE-4G0FtBQ",
+  "ParentRef": "LDmCXREUnkavPI_JwEMUUA/-dGwWWZpGkOukOs3lxKYpw",
+  "Created": "2025-01-02T17:36:22.6108925Z",
+  "Updated": "2025-01-02T17:36:22.6108925Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

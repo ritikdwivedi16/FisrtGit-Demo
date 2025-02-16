@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Item Description Quanti…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Wl2uDCmLs0yoj4HOqYvlpw",
+  "Reference": "LDmCXREUnkavPI_JwEMUUA/Wl2uDCmLs0yoj4HOqYvlpw",
+  "ParentRef": "LDmCXREUnkavPI_JwEMUUA/-dGwWWZpGkOukOs3lxKYpw",
+  "Created": "2025-01-02T17:37:58.3608424Z",
+  "Updated": "2025-01-02T17:37:58.3608424Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

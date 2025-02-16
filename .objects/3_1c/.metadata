@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge IRCTC Next Generation eTicketing System",
+  "Type": "App",
+  "Id": "3_1cc4Hj4kem4M35-bu7yA",
+  "Reference": "LDmCXREUnkavPI_JwEMUUA/3_1cc4Hj4kem4M35-bu7yA",
+  "Created": "2025-01-27T16:23:07.7328657Z",
+  "Updated": "2025-01-27T16:23:07.7328657Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
